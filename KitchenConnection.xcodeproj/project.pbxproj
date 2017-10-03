@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		2070348129C4C85FB1EC78D8 /* Pods_KitchenConnection.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F5F9AB448EFF2DA8C99603FC /* Pods_KitchenConnection.framework */; };
 		8BD012E41F7CFA3B00B0E1CD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD012E31F7CFA3B00B0E1CD /* AppDelegate.swift */; };
-		8BD012E61F7CFA3B00B0E1CD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BD012E51F7CFA3B00B0E1CD /* ViewController.swift */; };
 		8BD012E91F7CFA3B00B0E1CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BD012E71F7CFA3B00B0E1CD /* Main.storyboard */; };
 		8BD012EC1F7CFA3B00B0E1CD /* KitchenConnection.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8BD012EA1F7CFA3B00B0E1CD /* KitchenConnection.xcdatamodeld */; };
 		8BD012EE1F7CFA3B00B0E1CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BD012ED1F7CFA3B00B0E1CD /* Assets.xcassets */; };
@@ -24,7 +23,6 @@
 		18F4D157F184EAFE11D5F5D9 /* Pods-KitchenConnection.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KitchenConnection.debug.xcconfig"; path = "Pods/Target Support Files/Pods-KitchenConnection/Pods-KitchenConnection.debug.xcconfig"; sourceTree = "<group>"; };
 		8BD012E01F7CFA3B00B0E1CD /* KitchenConnection.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KitchenConnection.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BD012E31F7CFA3B00B0E1CD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		8BD012E51F7CFA3B00B0E1CD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8BD012E81F7CFA3B00B0E1CD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8BD012EB1F7CFA3B00B0E1CD /* KitchenConnection.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = KitchenConnection.xcdatamodel; sourceTree = "<group>"; };
 		8BD012ED1F7CFA3B00B0E1CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -83,7 +81,6 @@
 				8BEFA18F1F7D034500A8A042 /* View */,
 				8BEFA18E1F7D033D00A8A042 /* Model */,
 				8BD012E31F7CFA3B00B0E1CD /* AppDelegate.swift */,
-				8BD012E51F7CFA3B00B0E1CD /* ViewController.swift */,
 				8BD012E71F7CFA3B00B0E1CD /* Main.storyboard */,
 				8BD012ED1F7CFA3B00B0E1CD /* Assets.xcassets */,
 				8BD012EF1F7CFA3B00B0E1CD /* LaunchScreen.storyboard */,
@@ -260,7 +257,6 @@
 				8BEFA1941F7FBA6E00A8A042 /* SignUpViewController.swift in Sources */,
 				8BD012F91F7D01E100B0E1CD /* LoginViewController.swift in Sources */,
 				8BEFA1961F7FC36F00A8A042 /* PasswordResetViewController.swift in Sources */,
-				8BD012E61F7CFA3B00B0E1CD /* ViewController.swift in Sources */,
 				8BD012E41F7CFA3B00B0E1CD /* AppDelegate.swift in Sources */,
 				8BD012EC1F7CFA3B00B0E1CD /* KitchenConnection.xcdatamodeld in Sources */,
 				8BEFA1921F7E508300A8A042 /* NewsFeedViewController.swift in Sources */,

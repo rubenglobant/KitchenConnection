@@ -18,13 +18,11 @@ class LoginViewController: UIViewController {
         super.viewDidLoad()
         passwordTextField.delegate = self
         emailTextField.delegate = self
-
     }
 
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
         self.view.endEditing(true)
     }
-    
 }
 
 extension LoginViewController: UITextFieldDelegate {
